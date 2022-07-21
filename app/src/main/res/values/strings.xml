@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Frases do Dia</string>
+    <string name="buttonGeneratePhrase">Generate</string>
+    <string name="description_img_logo_app">Imagem da logo do aplicativo</string>
+</resources>
